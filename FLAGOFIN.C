@@ -4,6 +4,7 @@
 #include<stdlib.h>
 void main()
 {
+ //Flag of India 
  int gd=DETECT,gm;
  initgraph(&gd,&gm," ");
  line(150,50,150,1000);
